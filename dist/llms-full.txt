@@ -1,0 +1,35 @@
+# Documentation théatre VdS
+
+Bienvenue sur la Documentation du théatre VdS
+
+## Documentation
+
+### Introduction
+
+Path: `/Documentation/introduction.html`
+
+Bienvenue sur la Documentation du théatre VdS
+
+Bienvenue sur la Documentation du théatre VdS . Dans cette documentation vous découvrirez comment l'enssemble du matériel son lumière et vidéo disponible dans la salle polyvalente du lycée Val de Seine ainsi que comment les utiliser à l'aide de différent moyens. Cette documentation est rédigé par un ancien élève de l'option théatre du lycée Val de Seine et vise à faire partager aux élève actuel du lycée son savoir ainsi que ces truc et astuce. Note Les informations communiquer dans ce guide peuvent etre in exacte et la configuration réel des logiciel ainsi que du matériel peut donc varier. Les deux grandes catégorie sont donc : Régie lumière Régie audiovisuel
+
+### Introduction
+
+Path: `/Documentation/light/introduction.html`
+
+Bienvenue sur la Documentation du théatre VdS
+
+### Introduction
+
+Path: `/Documentation/audiovisual/introduction.html`
+
+Bienvenue sur la Documentation du théatre VdS
+
+## Glossaire
+
+### Introduction
+
+Path: `/Glossaire/introduction.html`
+
+Bienvenue sur la Documentation du théatre VdS
+
+Bienvenue sur la Documentation du théatre VdS . Dans cette documentation vous découvrirez comment l'enssemble du matériel son lumière et vidéo disponible dans la salle polyvalente du lycée Val de Seine ainsi que comment les utiliser à l'aide de différent moyens. Cette documentation est rédigé par un ancien élève de l'option théatre du lycée Val de Seine et vise à faire partager aux élève actuel du lycée son savoir ainsi que ces truc et astuce. Note Les informations communiquer dans ce guide peuvent etre in exacte et la configuration réel des logiciel ainsi que du matériel peut donc varier. Les deux grandes catégorie sont donc : Régie lumière Régie audiovisuel
