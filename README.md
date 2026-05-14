@@ -1,3 +1,5 @@
+# Bienvenue sur la Documentation du théâtre VdS
+
 Bienvenue sur la **Documentation du théâtre VdS**. Dans cette documentation, vous découvrirez l'ensemble du matériel son, lumière et vidéo disponible dans la salle polyvalente du lycée Val de Seine, ainsi que comment l'utiliser à l'aide de différents moyens.
 
 Cette documentation est rédigée par un ancien élève de l'option théâtre du lycée Val de Seine et vise à partager avec les élèves actuels du lycée son savoir ainsi que ses trucs et astuces.
