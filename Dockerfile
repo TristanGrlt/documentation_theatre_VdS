@@ -10,7 +10,7 @@ COPY . .
 
 RUN bunx sourcey build -o dist
 
-RUN cp -r static/* dist/ 2>/dev/null || :
+RUN cp -r public/* dist/ 2>/dev/null || :
 
 FROM nginx:alpine
 
