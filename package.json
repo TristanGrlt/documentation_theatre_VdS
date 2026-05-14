@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "sourcey dev",
-    "build": "sourcey build -o dist && cp -r static dist/"
+    "build": "sourcey build -o dist"
   },
   "dependencies": {
     "sourcey": "^3.4.3"
