@@ -7,7 +7,7 @@ description: Comment commencer à utiliser la console
 
 Tout d'abord, voici à quoi ressemble la console. Elle est placée dans une "Flight Case" qui est une boîte de transport qui permet aussi de la protéger. Vous pouvez retirer le couvercle du dessus en défaisant les attaches situées à droite et à gauche de la boîte.
 
-![La console avec le couvercle de la flight case retiré](./console_full.jpeg)
+![La console avec le couvercle de la flight case retiré](/static/console_full.jpeg)
 
 ## Le branchement
 
